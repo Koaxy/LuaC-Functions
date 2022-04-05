@@ -1,7 +1,7 @@
 # LuaC-Functions
 This is mad sexy bro, but hey i cannot "code" apparenly.
 
-#What is this?
+# What is this?
 
 ```
 Well! Hello person who is reading this, might be a skid might not be who knows, but ye this is essentially lua source converted to work with manipulating luau
