@@ -11,12 +11,12 @@ namespace roblox_addresses
 namespace roblox_offsets
 {
    DWORD gcobjMarked = 2;
-	DWORD gcobjmemcat = 0;
-	DWORD gcobject_tt = 1;
-	DWORD gc_currentwhite = 20;
-	DWORD activememcat = 4;
+   DWORD gcobjmemcat = 0;
+   DWORD gcobject_tt = 1;
+   DWORD gc_currentwhite = 20;
+   DWORD activememcat = 4;
    DWORD totalBytes = 40;
-	DWORD gcThresHold = 48;
+   DWORD gcThresHold = 48;
 }
 
 typedef void(__cdecl* rLuaC_st)(DWORD rL, bool assist);
